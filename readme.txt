@@ -1,0 +1,1 @@
+﻿stats -w Bug "Product Backlog Item" -c Done Removed -s "1-Jun-2018"
